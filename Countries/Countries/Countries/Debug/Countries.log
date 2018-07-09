@@ -1,0 +1,15 @@
+﻿  Game.cpp
+  Graphics.cpp
+c:\users\ростик\desktop\countries\countries\graphics.cpp(9): error C2065: SDL_HWSURFACE: необъявленный идентификатор
+c:\users\ростик\desktop\countries\countries\graphics.cpp(9): error C2065: SDL_DOUBLEBUF: необъявленный идентификатор
+c:\users\ростик\desktop\countries\countries\graphics.cpp(9): error C3861: SDL_SetVideoMode: идентификатор не найден
+c:\users\ростик\desktop\countries\countries\graphics.cpp(15): error C3861: SDL_DisplayFormat: идентификатор не найден
+c:\users\ростик\desktop\countries\countries\graphics.cpp(23): error C3861: SDL_DisplayFormat: идентификатор не найден
+c:\users\ростик\desktop\countries\countries\graphics.cpp(25): error C2065: SDL_SRCCOLORKEY: необъявленный идентификатор
+c:\users\ростик\desktop\countries\countries\graphics.cpp(25): error C2660: SDL_SetColorKey: функция не принимает 2 аргументов
+  c:\users\ростик\desktop\countries\sdl_source\include\sdl_surface.h(248): note:  см. объявление "SDL_SetColorKey"
+c:\users\ростик\desktop\countries\countries\graphics.cpp(67): error C3861: SDL_Flip: идентификатор не найден
+  Image.cpp
+  main.cpp
+  Project.cpp
+  Создание кода...
